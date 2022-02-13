@@ -1,0 +1,2 @@
+# QTConsoleCalculator
+QTConsoleCalculator intern task
